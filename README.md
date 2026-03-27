@@ -29,38 +29,38 @@
 
 <h3>There are my pet-projects</h3>
 
-src: https://github.com/Alexandr-Horton/logistic.git <br>
-page: https://alexandr-horton.github.io/logistic/ <br>
+src: https://github.com/aahorton/logistic.git <br>
+page: https://aahorton.github.io/logistic/ <br>
 desc: A Fully Responsive website built using html, css, Jquery, slick-slider and aos.js. It has multiple pages and went through validation.
 
-src: https://github.com/Alexandr-Horton/blrx-bootstrap.git <br>
-page: https://alexandr-horton.github.io/blrx-bootstrap/ <br>
+src: https://github.com/aahorton/blrx-bootstrap.git <br>
+page: https://aahorton.github.io/blrx-bootstrap/ <br>
 desc: Responsive website made with bootstrap and jqury (and of course html css)
 
-src: https://github.com/Alexandr-Horton/grcht.git <br>
-page: https://alexandr-horton.github.io/grcht/ <br>
+src: https://github.com/aahorton/grcht.git <br>
+page: https://aahorton.github.io/grcht/ <br>
 desc: html scss js gulp-webpack responsive page Maket from frigma
 
 <h2>JAVASCRIPT</h2>
 
-src: https://github.com/Alexandr-Horton/shape-js.git <br>
-page: https://alexandr-horton.github.io/shape-js/ <br>
+src: https://github.com/aahorton/shape-js.git <br>
+page: https://aahorton.github.io/shape-js/ <br>
 desc: html css js
 
-src: https://github.com/Alexandr-Horton/click-js.git <br>
-page: https://alexandr-horton.github.io/click-js/ <br>
+src: https://github.com/aahorton/click-js.git <br>
+page: https://aahorton.github.io/click-js/ <br>
 desc: html css js
 
-src: https://github.com/Alexandr-Horton/todo-js.git <br>
-page: https://alexandr-horton.github.io/todo-js/ <br>
+src: https://github.com/aahorton/todo-js.git <br>
+page: https://aahorton.github.io/todo-js/ <br>
 desc: simple todo-list on pure js, html, css
 
-src: https://github.com/Alexandr-Horton/blog-js.git <br>
+src: https://github.com/aahorton/blog-js.git <br>
 page: https://blog-js-eb39c.firebaseapp.com/ <br>
 desc: blog on native js with firebase, html, css, babel
 
-src: https://github.com/Alexandr-Horton/excel-js.git <br>
-page: https://alexandr-horton.github.io/excel-js/ <br>
+src: https://github.com/aahorton/excel-js.git <br>
+page: https://aahorton.github.io/excel-js/ <br>
 desc: Excel Spreadsheet with minimal functionality. babel, Eslint, webpack, scss, custom framework(redux, router, components...), unit-tests
 
 <h2>REACT, REDUX</h2>
